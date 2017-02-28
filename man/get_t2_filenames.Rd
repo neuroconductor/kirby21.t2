@@ -19,4 +19,3 @@ Return the filenames for the T2 images
 \examples{
 get_t2_filenames()
 }
-
