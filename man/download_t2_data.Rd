@@ -16,6 +16,3 @@ Indicator if the data is downloaded.
 \description{
 Download the files for the T2 images
 }
-\examples{
-download_t2_data()
-}
